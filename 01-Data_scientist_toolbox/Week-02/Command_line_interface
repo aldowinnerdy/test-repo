@@ -1,0 +1,11 @@
+pwd    : print working directory
+clear  : clear terminal
+ls     : list files and folders -a: hidden -al: detailed hidden
+cd     : change directory
+mkdir  : make new directory
+touch  : make new file
+cp     : copy -r: recursive
+rm     : remove -r: recursive
+mv     : move or rename -r: recursive
+date   : print date
+echo   : print arguments
